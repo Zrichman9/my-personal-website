@@ -2,3 +2,13 @@ body {
     background-color: #E30B5C;
   }
 
+h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: ghostwhite;
+text-align: center;
+}
+
+script {
+  text-align: center;
+}
+
