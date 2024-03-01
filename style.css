@@ -1,11 +1,28 @@
 body {
-    background-color: #E30B5C;
+    background: url(LFC/anfield.jpeg) center no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
   }
 
 h1 {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   color: ghostwhite;
 text-align: center;
+}
+
+h2 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: ghostwhite;
+text-align: center;
+font-size: 1.5em;
+}
+
+h3 {
+  font-family: 'Gabriela', serif;
+  color: ghostwhite;
+font-style: italic;
+text-align: center;
+-webkit-text-stroke: .5px black; 
 }
 
 script {
